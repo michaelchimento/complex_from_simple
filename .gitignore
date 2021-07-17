@@ -1,3 +1,9 @@
+#prevent outputs from uploading
+.pdf
+.png
+.html
+.txt
+
 # History files
 .Rhistory
 .Rapp.history
