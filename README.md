@@ -1,7 +1,8 @@
 # Complex foraging behaviours in wild birds emerge from social learning and recombination of components
 *Wild, S.†, Chimento, M.†, McMahon, K., Farine, D. R., Sheldon, B. C., Aplin, L. M.*
 
-Data and code for reproducing analyses and figures from Wild &amp; Chimento, et al. 2021
+Data and code for reproducing analyses and figures from Wild &amp; Chimento, et al. 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5159069.svg)](https://doi.org/10.5281/zenodo.5159069)
+
 
 ## Abstract
 
