@@ -1,6 +1,8 @@
 # Complex foraging behaviours in wild birds emerge from social learning and recombination of components
 *Wild, S.†, Chimento, M.†, McMahon, K., Farine, D. R., Sheldon, B. C., Aplin, L. M.*
+
 Data and code for reproducing analyses and figures from Wild &amp; Chimento, et al. 2021
 
 ##Abstract
+
 >Recent well-documented cases of cultural evolution towards increasing efficiency in non-human animals have led some authors to propose that other animals are also capable of cumulative cultural evolution, where traits become more refined and/or complex over time. Yet few comparative examples exist of traits increasing in complexity, and experimental tests remain scarce. In a previous study, we introduced a foraging innovation into replicate subpopulations of great tits, the ‘sliding-door puzzle’. Here we track diffusion of a second ‘dial puzzle’, before introducing a two-step puzzle that combines both actions. We mapped social networks across two generations to ask if individuals could: 1) recombine socially-learned traits, and 2) socially transmit a two-step trait. Our results show birds could recombine skills into a more complex foraging behaviour, and naïve birds across both generations could learn the two-step trait. However, closer interrogation revealed that acquisition was not achieved entirely through social learning—rather, birds socially learned components before reconstructing full solutions asocially. As a consequence, singular cultural traditions failed to emerge, although subpopulations of birds shared preferences for a subset of behavioural variants. Our results show that while tits can socially learn complex foraging behaviours, these may need to be scaffolded by rewarding each component.
